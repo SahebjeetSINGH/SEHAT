@@ -61,3 +61,6 @@ We are proud that we have made a website that can reduce Mental and physical iss
 
 # VIEW DEMO
 https://youtu.be/1SdsphJtkwo
+
+# Project Team
+Project Members - Sahebjeet Singh, Karan bagga and Prabhpreet singh
